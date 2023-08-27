@@ -1,4 +1,4 @@
 node_modules/
 client/node_modules
-config/default
-config/default.json
+/config/default
+/config/default.json
